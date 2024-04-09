@@ -1,0 +1,131 @@
+{
+    
+    "nombre": "El Aguante",
+    "fecha_publicacion": 1998,
+    "duracion_total": "48:43",
+    "foto": "https://www.discogs.com/es/release/12975846-Charly-Garcia-Presenta-Otra-Produccion-Say-No-More-El-Aguante/image/SW1hZ2U6NDY1ODIwMDE=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "María Gabriela Espumer",
+        "instrumento": ["Guitarra", "Voces"]
+      },
+      {
+        "nombre": "Juanse",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Claudio Gabis",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Bernardo Baraj",
+        "instrumento": ["Vientos"]
+      },
+      {
+        "nombre": "Mariela Chintalo",
+        "instrumento": ["Vientos", "Voces"]
+      },
+      {
+        "nombre": "Erika Di Salvo",
+        "instrumento": ["Violin"]
+      },
+      {
+        "nombre": "Ulises Di Salvo",
+        "instrumento": ["Cello"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Fernando Samalea",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Gabriel Said",
+        "instrumento": ["Percusión"]
+      },
+      {
+        "nombre": "Diego Dubarry",
+        "instrumento": ["Teclados", "Bajo"]
+      },
+      {
+        "nombre": "Alfi Martins",
+        "instrumento": ["teclados"]
+      },
+      {
+        "nombre": "Orquesta sinfónica de Madrid",
+        "instrumento": ["Orquesta"]
+      },
+      {
+        "nombre": "Rubén Glorgis",
+        "instrumento": ["Dirección orquestal"]
+      }
+    ],
+    "canciones":[
+        {
+            "id": 1,
+            "titulo": "El Aguante",
+            "autor":"",
+            "duracion": "3:28"
+          },
+          {
+            "id": 2,
+            "titulo": "Kill My Mother",
+            "autor":"",
+            "duracion": "8:42"
+          },
+          {
+            "id": 3,
+            "titulo": "Pedro trabaja en el cine",
+            "autor":"",
+            "duracion": "4:22"
+          },
+          {
+            "id": 4,
+            "titulo": "No estaría mal",
+            "autor":"",
+            "duracion": "2:52"
+          },
+          {
+            "id": 5,
+            "titulo": "Soldado de lata",
+            "autor":"",
+            "duracion": "3:30"
+          },
+          {
+            "id": 6,
+            "titulo": "Correte Beethoven",
+            "autor":"",
+            "duracion": "4:22"
+          },
+          {
+            "id": 7,
+            "titulo": "Tu arma en el sur",
+            "autor":"",
+            "duracion": "5:07"
+          },
+          {
+            "id": 8,
+            "titulo":"Dos edificios dorados",
+            "autor":"",
+            "duracion": "5:25"
+          },
+          {
+            "id": 9,
+            "titulo": "Uno a uno",
+            "autor":"",
+            "duracion": "3:00"
+          },
+          {
+            "id": 10,
+            "titulo": "Lo que ves es lo que hay",
+            "autor":"",
+            "duracion": "7:55"
+          }
+    ]
+}

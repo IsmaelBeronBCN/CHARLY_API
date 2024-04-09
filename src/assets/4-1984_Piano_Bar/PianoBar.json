@@ -1,0 +1,99 @@
+{
+    "nombre": "Piano Bar",
+    "fecha_publicacion": 1984,
+    "duracion_total": "41:09",
+    "foto": "https://images.app.goo.gl/mKG61yNohWE4KjSb8",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarras"]
+      },
+      {
+        "nombre": "Fito Páez",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Pablo Guyot",
+        "instrumento": ["Guitarras"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Willy Iturri",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Daniel Melingo",
+        "instrumento": ["Saxofón"]
+      },
+      {
+        "nombre": "Fabiana Cantilo",
+        "instrumento": ["Coros"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Demoliendo hoteles",
+        "autor": "Charly García",
+        "duracion": "3:43"
+      },
+      {
+        "id": 2,
+        "titulo": "Promesas sobre el bidet",
+        "autor": "Charly García",
+        "duracion": "3:05"
+      },
+      {
+        "id": 3,
+        "titulo": "Raros peinados nuevos",
+        "autor": "Charly García",
+        "duracion": "3:40"
+      },
+      {
+        "id": 4,
+        "titulo": "Piano bar",
+        "autor": "Charly García",
+        "duracion": "5:38"
+      },
+      {
+        "id": 5,
+        "titulo": "No se va a llamar mi amor",
+        "autor": "Charly García",
+        "duracion": "4:13"
+      },
+      {
+        "id": 6,
+        "titulo": "Tu amor",
+        "autor": "Charly García",
+        "duracion": "4:52"
+      },
+      {
+        "id": 7,
+        "titulo": "No me dejan salir",
+        "autor": "Charly García",
+        "duracion": "4:18"
+      },
+      {
+        "id": 8,
+        "titulo": "Canción de dos por tres",
+        "autor": "Charly García",
+        "duracion": "4:00"
+      },
+      {
+        "id": 9,
+        "titulo": "Yendo de la cama al living",
+        "autor": "Charly García",
+        "duracion": "4:30"
+      },
+      {
+        "id": 10,
+        "titulo": "Fantasmas",
+        "autor": "Charly García",
+        "duracion": "3:30"
+      }
+    ]
+  }
+  

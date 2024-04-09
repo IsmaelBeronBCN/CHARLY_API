@@ -1,0 +1,82 @@
+{
+    "nombre": "Rock and Roll Yo",
+    "fecha_publicacion": 2003,
+    "duracion_total": "38:38",
+    "foto": "https://www.discogs.com/es/release/11639976-Charly-Garcia-Rock-And-Roll-Yo/image/SW1hZ2U6MzMwMDg3NzA=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Vocales", "Instrumentos", "Efectos", "Ilustración"]
+      }
+     
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Dileando Con Un Alma (Que No Puedo Entender)",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 2,
+        "titulo": "Rehén",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 3,
+        "titulo": "Asesíname",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 4,
+        "titulo": "Linda Bailarina",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 5,
+        "titulo": "Asesíname Stone",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 6,
+        "titulo": "V.S.D.",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 7,
+        "titulo": "Tango",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 8,
+        "titulo": "Cretino",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 9,
+        "titulo": "Rock And Roll Yo",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 10,
+        "titulo": "Wonder (Love's In Need Of Love Today)",
+        "autor": "Stevie Wonder",
+        "duracion": "No especificada"
+      },
+      {
+        "id": 11,
+        "titulo": "Dealer (Reprise)",
+        "autor": "Charly García",
+        "duracion": "No especificada"
+      }
+    ]
+  }
+  

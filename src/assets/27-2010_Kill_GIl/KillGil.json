@@ -1,0 +1,113 @@
+{
+    "nombre": "Kill Gil",
+    "fecha_publicacion": 2010,
+    "duracion_total": "No especificada",
+    "foto": "https://www.discogs.com/pt_BR/master/1745847-Charly-Garcia-Kill-Gil/image/SW1hZ2U6MzkzNjE4MDY=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Vocales", "Guitarra", "Bajo", "Piano", "Teclados", "Programación de batería"]
+      },
+      {
+        "nombre": "Carlos González",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Kiushe Hayashida",
+        "instrumento": ["Guitarra", "Coros"]
+      },
+      {
+        "nombre": "Tonio Silva",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "María Eva Albistur",
+        "instrumento": ["Colaboradora"]
+      },
+      {
+        "nombre": "Bernard Fowler",
+        "instrumento": ["Colaborador"]
+      },
+      {
+        "nombre": "Palito Ortega",
+        "instrumento": ["Colaborador"]
+      },
+      {
+        "nombre": "Deborah de Corral",
+        "instrumento": ["Colaboradora"]
+      },
+      {
+        "nombre": "Fernando Kabusacki",
+        "instrumento": ["Colaborador"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "No Importa",
+        "autor":"",
+        "duracion": "5:27"
+      },
+      {
+        "id": 2,
+        "titulo": "King Kong",
+        "autor":"",
+        "duracion": "2:36"
+      },
+      {
+        "id": 3,
+        "titulo": "In The City That Never Sleeps",
+        "autor":"",
+        "duracion": "2:39"
+      },
+      {
+        "id": 4,
+        "titulo": "Pastillas",
+        "autor":"",
+        "duracion": "2:56"
+      },
+      {
+        "id": 5,
+        "titulo": "Corazón De Hormigón",
+        "autor":"",
+        "duracion": "3:06"
+      },
+      {
+        "id": 6,
+        "titulo": "Transformación",
+        "autor":"",
+        "duracion": "6:26"
+      },
+      {
+        "id": 7,
+        "titulo": "Mirando Las Ruedas",
+        "autor":"",
+        "duracion": "1:59"
+      },
+      {
+        "id": 8,
+        "titulo": "Break It Up",
+        "autor":"",
+        "duracion": "2:07"
+      },
+      {
+        "id": 9,
+        "titulo": "Los Fantasmas",
+        "autor":"",
+        "duracion": "3:21"
+      },
+      {
+        "id": 10,
+        "titulo": "Telepáticamente",
+        "autor":"",
+        "duracion": "5:23"
+      },
+      {
+        "id": 11,
+        "titulo": "Happy And Real",
+        "autor":"",
+        "duracion": "3:55"
+      }
+    ]
+  }
+  

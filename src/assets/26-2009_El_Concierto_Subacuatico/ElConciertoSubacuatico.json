@@ -1,0 +1,172 @@
+
+{
+    "nombre": "El Concierto Subacuático",
+    "fecha_publicacion": 2010,
+    "duracion_total": "1:45:00",
+    "foto": "https://www.discogs.com/release/4852448-Charly-Garcia-Estadio-V%C3%A9lez-231009-El-Concierto-Subacu%C3%A1tico/image/SW1hZ2U6MzUzMzI5ODU=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Piano"]
+      },
+      {
+        "nombre": "Hilda Lizarazu",
+        "instrumento": ["Voces"]
+      },
+      {
+        "nombre": "Carlos Alberto García López",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Fabián Vön Quintiero",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Kiuge Hayashida",
+        "instrumento": ["Guitarras adicionales"]
+      },
+      {
+        "nombre": "Antonio Silva Peña",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Carlos González",
+        "instrumento": ["Bajo"]
+      }
+    ],
+    "musicos_invitados": [
+      {
+        "nombre": "Luis Alberto Spinetta",
+        "instrumento": ["Voz", "Guitarra"],
+        "cancion": "Rezo por vos"
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "El amor espera",
+        "autor":"",
+        "duracion": "4:47"
+      },
+      {
+        "id": 2,
+        "titulo": "El rap del exilio",
+        "autor":"",
+        "duracion": "2:38"
+      },
+      {
+        "id": 3,
+        "titulo": "Cerca de la revolución",
+        "autor":"",
+        "duracion": "4:40"
+      },
+      {
+        "id": 4,
+        "titulo": "Chipi Chipi",
+        "autor":"",
+        "duracion": "3:29"
+      },
+      {
+        "id": 5,
+        "titulo": "Fanky",
+        "autor":"",
+        "duracion": "4:40"
+      },
+      {
+        "id": 6,
+        "titulo": "Demoliendo hoteles",
+        "autor":"",
+        "duracion": "2:53"
+      },
+      {
+        "id": 7,
+        "titulo": "Promesas sobre el bidet",
+        "autor":"",
+        "duracion": "3:58"
+      },
+      {
+        "id": 8,
+        "titulo": "Rezo por vos",
+        "autores": "Spinetta García",
+        "duracion": "4:49"
+      },
+      {
+        "id": 9,
+        "titulo": "Yendo de la cama al living",
+        "autor":"",
+        "duracion": "4:53"
+      },
+      {
+        "id": 10,
+        "titulo": "Canción de dos por tres",
+        "autor":"",
+        "duracion": "4:13"
+      },
+      {
+        "id": 11,
+        "titulo": "Pecado mortal (Nos siguen pegando abajo)",
+        "autor":"",
+        "duracion": "3:18"
+      },
+      {
+        "id": 12,
+        "titulo": "Influencia",
+        "autores": "Todd Rundgren Charly García",
+        "duracion": "4:54"
+      },
+      {
+        "id": 13,
+        "titulo": "Llorando en el espejo",
+        "autor":"",
+        "duracion": "3:15"
+      },
+      {
+        "id": 14,
+        "titulo": "Raros peinados nuevos",
+        "autor":"",
+        "duracion": "4:06"
+      },
+      {
+        "id": 15,
+        "titulo": "Me siento mucho mejor",
+        "autor": "Gene Clark",
+        "duracion": "2:49"
+      },
+      {
+        "id": 16,
+        "titulo": "Buscando un símbolo de paz",
+        "autor":"",
+        "duracion": "4:39"
+      },
+      {
+        "id": 17,
+        "titulo": "No voy en tren",
+        "autor":"",
+        "duracion": "2:04"
+      },
+      {
+        "id": 18,
+        "titulo": "Deberías saber por qué",
+        "autor":"",
+        "duracion": "2:54"
+      },
+      {
+        "id": 19,
+        "titulo": "Rock & Roll YO!",
+        "autor":"",
+        "duracion": "4:30"
+      },
+      {
+        "id": 20,
+        "titulo": "No Toquen",
+        "autor":"",
+        "duracion": "4:01"
+      },
+      {
+        "id": 21,
+        "titulo": "No se va a llamar mi amor",
+        "autor":"",
+        "duracion": "2:06"
+         }
+     ]
+}

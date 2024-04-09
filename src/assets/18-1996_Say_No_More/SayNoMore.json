@@ -1,0 +1,110 @@
+{
+    "nombre": "Say No More",
+    "año_publicacion": 1996,
+    "duracion_total": "58:39",
+    "foto":"https://www.discogs.com/master/557532-Charly-Garcia-Say-No-More/image/SW1hZ2U6MjIzOTE1NTI=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra", "Bajo", "Programación"]
+      },
+      {
+        "nombre": "María Gabriela Epumer",
+        "instrumento": ["Guitarra", "Coros"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Fernando Samalea",
+        "instrumento": ["Batería", "Bandoneón"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Teclados", "Bajo"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Say No More",
+        "autor": "Charly García",
+        "duracion": "5:04"
+      },
+      {
+        "id": 2,
+        "titulo": "De mí",
+        "autor": "Charly García",
+        "duracion": "3:47"
+      },
+      {
+        "id": 3,
+        "titulo": "Alguien en el mundo piensa en mí",
+        "autor": "Charly García",
+        "duracion": "3:15"
+      },
+      {
+        "id": 4,
+        "titulo": "Canción de 2x3",
+        "autor": "Charly García",
+        "duracion": "4:40"
+      },
+      {
+        "id": 5,
+        "titulo": "Vampiro",
+        "autor": "Charly García",
+        "duracion": "3:48"
+      },
+      {
+        "id": 6,
+        "titulo": "La sal no sala",
+        "autor": "Charly García",
+        "duracion": "3:00"
+      },
+      {
+        "id": 7,
+        "titulo": "Fax U...",
+        "autor": "Charly García",
+        "duracion": "0:31"
+      },
+      {
+        "id": 8,
+        "titulo": "No toquen",
+        "autor": "Charly García",
+        "duracion": "3:40"
+      },
+      {
+        "id": 9,
+        "titulo": "Cuchillos",
+        "autor": "Charly García",
+        "duracion": "4:08"
+      },
+      {
+        "id": 10,
+        "titulo": "Das más (Emmanuel Horvilleur)",
+        "autor": "Charly García",
+        "duracion": "3:00"
+      },
+      {
+        "id": 11,
+        "titulo": "El día que apagaron la luz",
+        "autor": "Charly García",
+        "duracion": "4:30"
+      },
+      {
+        "id": 12,
+        "titulo": "El aguante",
+        "autor": "Charly García",
+        "duracion": "15:04"
+      },
+      {
+        "id": 13,
+        "titulo": "Chipi Chipi",
+        "autor": "Charly García",
+        "duracion": "3:52"
+      }
+      
+    ]
+  }
+  

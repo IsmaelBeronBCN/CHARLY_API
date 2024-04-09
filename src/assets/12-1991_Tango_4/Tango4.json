@@ -1,0 +1,102 @@
+{
+    "nombre": "Tango 4",
+    "fecha_publicacion": 1991,
+    "duracion_total": "52:06",
+    "foto": "https://www.discogs.com/release/2702658-Charly-Garcia-Pedro-Aznar-Tango-4/image/SW1hZ2U6Mjc2NzE2NTE=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados"]
+      },
+      {
+        "nombre": "Pedro Aznar",
+        "instrumento": ["Voz", "Bajo", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Oscar Moro",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Andrés Calamaro",
+        "instrumento": ["Órgano Hammond"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Ulises Butrón",
+        "instrumento": ["Guitarra"]
+      }
+
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Tu amor",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "4:58"
+      },
+      {
+        "id": 2,
+        "titulo": "La leyenda del hada y el mago",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "3:50"
+      },
+      {
+        "id": 3,
+        "titulo": "Mientes",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "3:45"
+      },
+      {
+        "id": 4,
+        "titulo": "Dame",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "3:41"
+      },
+      {
+        "id": 5,
+        "titulo": "Vampiro",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "4:33"
+      },
+      {
+        "id": 6,
+        "titulo": "A cada hombre, a cada mujer",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "4:27"
+      },
+      {
+        "id": 7,
+        "titulo": "Trátame suavemente",
+        "autor": "Daniel Melingo",
+        "duracion": "4:24"
+      },
+      {
+        "id": 8,
+        "titulo": "Inconsciente colectivo",
+        "autor": "Charly García",
+        "duracion": "2:55"
+      },
+      {
+        "id": 9,
+        "titulo": "Angie",
+        "autor": "Mick Jagger, Keith Richards",
+        "duracion": "4:49"
+      },
+      {
+        "id": 10,
+        "titulo": "No llores por mí, Argentina",
+        "autor": "Andrew Lloyd Webber, Tim Rice",
+        "duracion": "5:39"
+      },
+      {
+        "id": 11,
+        "titulo": "Hablando a tu corazón",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "4:45"
+      }
+    ]
+  }
+  

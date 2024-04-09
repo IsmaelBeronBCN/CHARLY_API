@@ -1,0 +1,165 @@
+{
+    "name": "pubisangelical",
+    "songs":[
+        {"operaciondensa":{
+            "id":1,
+            "name": "Operación densa",
+            "author": "charly_garcía",
+            "duration": "2:04"
+             },
+            "despertardelmambo":{
+                "id":2,
+                "name":"Despertar del Mambo",
+                "author": "charly_garcía",
+                "duration":"2:32"
+            },
+            "rejaselectrificadas":{
+                "id":3,
+                "name":"Rejas Electrificadas",
+                "author": "charly_garcía",
+                "duration":"1:00"
+            },
+            "pubisangelical":{
+                "id":4,
+                "name":"Pubis Angelical",
+                "author": "charly_garcía",
+                "duration":"2:27"
+            },
+            "monoculofantastico":{
+                "id":5,
+                "name":"Monóculo fantástico",
+                "author": "charly_garcía",
+                "duration":"2:05"
+            },
+            "allidothewholenightthrough":{
+                "id":6,
+                "name": "All I do the whole night through",
+                "author": "freed_brown",
+                "duration": "1:47" 
+            },
+            "serenofantastico":{
+                "id":7,
+                "name":"Sereno Fantástico",
+                "author": "seru_girán",
+                "duration":"3:01"
+            },
+            "transatlanticoartdeco":{
+                "id":8,
+                "name":"Transatlántico art decó",
+                "author": "charly_garcía",
+                "duration":"2:32"
+            },
+            "caspadeestrellas":{
+                "id":9,
+                "name":"Caspa de Estrellas",
+                "author": "charly_garcía",
+                "duration":"3:16"
+            },
+            "crimendivinaproductor":{
+                "id":10,
+                "name":"Crimen, divina, productor",
+                "author": "charly_garcía",
+                "duration":"2:55"
+            },
+            "pubisangelicalvocal":{
+                "id":11,
+                "name":"Pubis angelical (vocal)",
+                "author": "charly_garcía",
+                "duration":"0:55"
+            }, 
+            "pubisangelicalvocal2":{
+                "id":12,
+                "name":"Pubis angelical (vocal II)",
+                "author": "charly_garcía",
+                "duration":"0:57"
+            }, 
+            "futuropobre":{
+                "id":13,
+                "name":"Futuro Pobre",
+                "author": "charly_garcía",
+                "duration":"3:30"
+            }, 
+            "tribunalesdelfuturopobre":{
+                "id":14,
+                "name":"Tribunales del futuro pobre",
+                "author": "charly_garcía",
+                "duration":"0:55"
+            },
+            "todoslospubisjuntos":{
+                "id":14,
+                "name":"Todos los pubis juntos",
+                "author": "charly_garcía",
+                "duration":"2:30"
+            }
+            
+
+        }
+    ],
+    "duration": "34:03",
+    "picture": "",
+    "year": "", 
+    "musicians": ["david_lebón","fabiana_cantilo","daniel_melingo", "patricio_bisso","daniel_colombres", "julia_zenko", "ernesto_soca", "alejandro_de_raco",
+    "carlos_salgán", "quebracho", "charly_garcía"
+ ],
+ "chatgpt": {
+    "nombre": "Pubis Angelical",
+    "fecha_publicacion": 1982,
+    "duracion_total": "Incluida en 'Yendo de la cama al living'",
+    "foto": "",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Sintetizadores"]
+      },
+      {
+        "nombre": "Willy Iturri",
+        "instrumento": ["Batería", "Voz"]
+      },
+      {
+        "nombre": "Pablo Guyot",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Daniel Melingo",
+        "instrumento": ["Saxo", "Clarinete"]
+      },
+      {
+        "nombre": "Pedro Aznar",
+        "instrumento": ["Coros", "Teclados adicionales"]
+      }
+      
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Pubis Angelical",
+        "autor": "Charly García",
+        "duracion": "Parte de 'Yendo de la cama al living'"
+      },
+      {
+        "id": 2,
+        "titulo": "Canción de Alicia en el país",
+        "autor": "Charly García",
+        "duracion": "Parte de 'Yendo de la cama al living'"
+      },
+      {
+        "id": 3,
+        "titulo": "Los dinosaurios",
+        "autor": "Charly García",
+        "duracion": "Parte de 'Clics Modernos'"
+      },
+      {
+        "id": 4,
+        "titulo": "Plateado sobre Plateado (Huellas en el mar)",
+        "autor": "Charly García",
+        "duracion": "Parte de 'Clics Modernos'"
+      }
+      
+    ]
+  }   
+}
+

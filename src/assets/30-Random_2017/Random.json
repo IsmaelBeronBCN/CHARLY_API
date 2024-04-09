@@ -1,0 +1,70 @@
+{
+    "nombre": "Random",
+    "fecha_publicacion": 2017,
+    "duracion_total": "No especificada",
+    "foto": "https://www.discogs.com/release/9938633-Charly-Garc%C3%ADa-Random/image/SW1hZ2U6MzQyMDc5NjQ=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Vocales", "Guitarra", "Bajo", "Piano", "Teclados", "Composición"]
+      },
+      {
+        "nombre": "Antonio 'Toño' Silva",
+        "instrumento": ["Batería"]
+      }
+      
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "La Máquina De Ser Feliz",
+        "duracion": "4:40"
+      },
+      {
+        "id": 2,
+        "titulo": "Ella Es Tan Kubrick",
+        "duracion": "3:01"
+      },
+      {
+        "id": 3,
+        "titulo": "Primavera",
+        "duracion": "4:35"
+      },
+      {
+        "id": 4,
+        "titulo": "Rivalidad",
+        "duracion": "3:04"
+      },
+      {
+        "id": 5,
+        "titulo": "Otro",
+        "duracion": "2:11"
+      },
+      {
+        "id": 6,
+        "titulo": "Lluvia",
+        "duracion": "3:46"
+      },
+      {
+        "id": 7,
+        "titulo": "Believe",
+        "duracion": "2:05"
+      },
+      {
+        "id": 8,
+        "titulo": "Amigos De Dios",
+        "duracion": "3:46"
+      },
+      {
+        "id": 9,
+        "titulo": "Spector",
+        "duracion": "3:19"
+      },
+      {
+        "id": 10,
+        "titulo": "Mundo B",
+        "duracion": "3:30"
+      }
+    ]
+  }
+  

@@ -1,0 +1,105 @@
+{
+    "nombre": "Alta Fidelidad",
+    "fecha_publicacion": 1997,
+    "duracion_total": "44:07",
+    "foto":"https://images.app.goo.gl/sTnd5cJCmMiGM8hf8",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados"]
+      },
+      {
+        "nombre": "Mercedes Sosa",
+        "instrumento": ["Voz"]
+      },
+      {
+        "nombre": "María Gabriela Epumer",
+        "instrumento": ["Guitarra", "Coros"]
+      },
+      {
+        "nombre": "Carlos García López",
+        "instrumento": ["Guitarra eléctrica"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Ulises Butrón",
+        "instrumento": ["Guitarra"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "De mí",
+        "autor": "Charly García",
+        "duracion": "2:57"
+      },
+      {
+        "id": 2,
+        "titulo": "La máquina de ser feliz",
+        "autor": "Charly García",
+        "duracion": "4:13"
+      },
+      {
+        "id": 3,
+        "titulo": "Zona de promesas",
+        "autor": "Gustavo Cerati",
+        "duracion": "4:04"
+      },
+      {
+        "id": 4,
+        "titulo": "Los sobrevivientes",
+        "autor": "Charly García",
+        "duracion": "3:40"
+      },
+      {
+        "id": 5,
+        "titulo": "Desarma y sangra",
+        "autor": "Charly García",
+        "duracion": "3:05"
+      },
+      {
+        "id": 6,
+        "titulo": "Alta fidelidad",
+        "autor": "Charly García",
+        "duracion": "4:21"
+      },
+      {
+        "id": 7,
+        "titulo": "El ángel de la bicicleta",
+        "autor": "León Gieco",
+        "duracion": "4:32"
+      },
+      {
+        "id": 8,
+        "titulo": "Cuando ya me empiece a quedar solo",
+        "autor": "Charly García",
+        "duracion": "4:27"
+      },
+      {
+        "id": 9,
+        "titulo": "Inconsciente colectivo",
+        "autor": "Charly García",
+        "duracion": "3:16"
+      },
+      {
+        "id": 10,
+        "titulo": "Rasguña las piedras",
+        "autor": "Charly García",
+        "duracion": "4:24"
+      },
+      {
+        "id": 11,
+        "titulo": "El fantasma de Canterville",
+        "autor": "Charly García",
+        "duracion": "4:08"
+      }
+    ]
+  }
+  

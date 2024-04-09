@@ -1,0 +1,89 @@
+{
+    "nombre": "Yendo de la cama al living",
+    "fecha_publicacion": 1982,
+    "duracion_total": "38:55",
+    "foto":"https://images.app.goo.gl/sTnd5cJCmMiGM8hf8",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra", "Bajo", "Sintetizadores"]
+      },
+      {
+        "nombre": "Willy Iturri",
+        "instrumento": ["Batería", "Voz"]
+      },
+      {
+        "nombre": "Pablo Guyot",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Daniel Melingo",
+        "instrumento": ["Saxo", "Clarinete", "Voz"]
+      },
+      {
+        "nombre": "Pedro Aznar",
+        "instrumento": ["Voz", "Coros"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Yendo de la cama al living",
+        "autor": "Charly García",
+        "duracion": "6:04"
+      },
+      {
+        "id": 2,
+        "titulo": "No bombardeen Buenos Aires",
+        "autor": "Charly García",
+        "duracion": "3:38"
+      },
+      {
+        "id": 3,
+        "titulo": "No me dejan salir",
+        "autor": "Charly García",
+        "duracion": "4:03"
+      },
+      {
+        "id": 4,
+        "titulo": "Influencia",
+        "autor": "Charly García",
+        "duracion": "4:39"
+      },
+      {
+        "id": 5,
+        "titulo": "Yo no quiero volverme tan loco",
+        "autor": "Charly García",
+        "duracion": "4:53"
+      },
+      {
+        "id": 6,
+        "titulo": "Demoliendo hoteles",
+        "autor": "Charly García",
+        "duracion": "3:39"
+      },
+      {
+        "id": 7,
+        "titulo": "Aquí no podemos hacerlo",
+        "autor": "Charly García",
+        "duracion": "3:46"
+      },
+      {
+        "id": 8,
+        "titulo": "No se va a llamar mi amor",
+        "autor": "Charly García",
+        "duracion": "3:42"
+      },
+      {
+        "id": 9,
+        "titulo": "Rap del exilio",
+        "autor": "Charly García",
+        "duracion": "2:50"
+      }
+    ]
+  }
+  

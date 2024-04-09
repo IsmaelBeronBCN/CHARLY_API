@@ -1,0 +1,121 @@
+{
+    "nombre": "La Hija de la Lágrima",
+    "fecha_publicacion": 1994,
+    "duracion_total": "52:33",
+    "foto":"https://www.discogs.com/release/6863940-Charly-Garcia-La-Hija-De-La-L%C3%A1grima/image/SW1hZ2U6MTgyMjI0NDY=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Carlos Alberto García López",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Fernando Lupano",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "La hija de la lágrima",
+        "autor": "Charly García",
+        "duracion": "2:20"
+      },
+      {
+        "id": 2,
+        "titulo": "La salida",
+        "autor": "Charly García",
+        "duracion": "1:03"
+      },
+      {
+        "id": 3,
+        "titulo": "Rezo por vos",
+        "autor": "Charly García, Luis Alberto Spinetta",
+        "duracion": "4:21"
+      },
+      {
+        "id": 4,
+        "titulo": "Tu vicio",
+        "autor": "Charly García",
+        "duracion": "4:43"
+      },
+      {
+        "id": 5,
+        "titulo": "Chipi chipi",
+        "autor": "Charly García",
+        "duracion": "3:13"
+      },
+      {
+        "id": 6,
+        "titulo": "Fantasmas",
+        "autor": "Charly García",
+        "duracion": "3:45"
+      },
+      {
+        "id": 7,
+        "titulo": "Plateado sobre plateado",
+        "autor": "Charly García",
+        "duracion": "4:38"
+      },
+      {
+        "id": 8,
+        "titulo": "El show de los muertos",
+        "autor": "Charly García",
+        "duracion": "4:17"
+      },
+      {
+        "id": 9,
+        "titulo": "Fax U",
+        "autor": "Charly García",
+        "duracion": "2:40"
+      },
+      {
+        "id": 10,
+        "titulo": "Gato de metal",
+        "autor": "Charly García",
+        "duracion": "2:32"
+      },
+      {
+        "id": 11,
+        "titulo": "Canción de 2x3",
+        "autor": "Charly García",
+        "duracion": "3:50"
+      },
+      {
+        "id": 12,
+        "titulo": "Vendedor de lujuria",
+        "autor": "Charly García",
+        "duracion": "4:52"
+      },
+      {
+        "id": 13,
+        "titulo": "Suicida",
+        "autor": "Charly García",
+        "duracion": "2:55"
+      },
+      {
+        "id": 14,
+        "titulo": "Policías en el jardín",
+        "autor": "Charly García",
+        "duracion": "2:24"
+      },
+      {
+        "id": 15,
+        "titulo": "Cuchillos",
+        "autor": "Charly García",
+        "duracion": "4:05"
+      }
+    ]
+  }
+  

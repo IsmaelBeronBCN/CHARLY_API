@@ -1,0 +1,99 @@
+{
+    "nombre": "Parte de la Religión",
+    "fecha_publicacion": 1987,
+    "duracion_total": "43:28",
+    "foto": "https://www.discogs.com/release/3515032-Charly-Garcia-Parte-De-La-Religion/image/SW1hZ2U6Mjk2MDk1ODY=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Carlos García López",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Fernando Lupano",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Héctor 'Pomo' Lorenzo",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fabiana Cantilo",
+        "instrumento": ["Coros"]
+      },
+      {
+        "nombre": "Fito Páez",
+        "instrumento": ["Teclados", "Coros"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "No voy en tren",
+        "autor": "Charly García",
+        "duracion": "4:05"
+      },
+      {
+        "id": 2,
+        "titulo": "Yo no quiero volverme tan loco",
+        "autor": "Charly García",
+        "duracion": "4:54"
+      },
+      {
+        "id": 3,
+        "titulo": "Plateado sobre plateado (Huellas en el mar)",
+        "autor": "Charly García",
+        "duracion": "4:38"
+      },
+      {
+        "id": 4,
+        "titulo": "Necesito tu amor",
+        "autor": "Charly García",
+        "duracion": "3:56"
+      },
+      {
+        "id": 5,
+        "titulo": "La ruta del tentempié",
+        "autor": "Charly García",
+        "duracion": "3:40"
+      },
+      {
+        "id": 6,
+        "titulo": "Parte de la religión",
+        "autor": "Charly García",
+        "duracion": "4:34"
+      },
+      {
+        "id": 7,
+        "titulo": "Rap de las hormigas",
+        "autor": "Charly García, Fito Páez",
+        "duracion": "3:18"
+      },
+      {
+        "id": 8,
+        "titulo": "Adela en el carrousell",
+        "autor": "Charly García",
+        "duracion": "3:30"
+      },
+      {
+        "id": 9,
+        "titulo": "Zocacola",
+        "autor": "Charly García",
+        "duracion": "4:10"
+      },
+      {
+        "id": 10,
+        "titulo": "Cerca de la revolución",
+        "autor": "Charly García",
+        "duracion": "4:43"
+      }
+    ]
+  }
+  

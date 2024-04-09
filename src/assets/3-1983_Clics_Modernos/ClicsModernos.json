@@ -1,0 +1,84 @@
+{
+    "nombre": "Clics Modernos",
+    "fecha_publicacion": 1983,
+    "duracion_total": "37:40",
+    "foto":"https://images.app.goo.gl/YvRt2MEWMtyZMd4w5",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Pedro Aznar",
+        "instrumento": ["Bajo", "Coros", "Programación de Caja de Ritmos"]
+      },
+      {
+        "nombre": "Willy Iturri",
+        "instrumento": ["Batería"]
+      },
+      {
+        "nombre": "Daniel Melingo",
+        "instrumento": ["Saxofón"]
+      },
+      {
+        "nombre": "Fito Páez",
+        "instrumento": ["Teclados"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Nos siguen pegando abajo (Pecado mortal)",
+        "autor": "Charly García",
+        "duracion": "4:38"
+      },
+      {
+        "id": 2,
+        "titulo": "No soy un extraño",
+        "autor": "Charly García",
+        "duracion": "3:25"
+      },
+      {
+        "id": 3,
+        "titulo": "Dos cero uno (Transas)",
+        "autor": "Charly García",
+        "duracion": "4:38"
+      },
+      {
+        "id": 4,
+        "titulo": "Nuevos trapos",
+        "autor": "Charly García",
+        "duracion": "2:10"
+      },
+      {
+        "id": 5,
+        "titulo": "Bancate ese defecto",
+        "autor": "Charly García, Daniel Melingo",
+        "duracion": "2:27"
+      },
+      {
+        "id": 6,
+        "titulo": "No me dejan salir",
+        "autor": "Charly García",
+        "duracion": "4:03"
+      },
+      {
+        "id": 7,
+        "titulo": "Los dinosaurios",
+        "autor": "Charly García",
+        "duracion": "4:14"
+      },
+      {
+        "id": 8,
+        "titulo": "Plateado sobre plateado (Huellas en el mar)",
+        "autor": "Charly García",
+        "duracion": "4:37"
+      },
+      {
+        "id": 9,
+        "titulo": "Ojos de videotape",
+        "autor": "Charly García",
+        "duracion": "4:28"
+      }
+    ]
+  }

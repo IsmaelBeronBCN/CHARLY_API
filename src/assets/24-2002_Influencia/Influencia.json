@@ -1,0 +1,118 @@
+{
+    "nombre": "Influencia",
+    "fecha_publicacion": 2002,
+    "duracion_total": "43:10",
+    "foto": "https://www.discogs.com/release/3109709-Charly-Garcia-Influencia/image/SW1hZ2U6MjA5NjQxMzA=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Ana Alvarez De Toledo",
+        "instrumento": ["Coros"]
+      },
+      {
+        "nombre": "Laura Casarino",
+        "instrumento": ["Coros"]
+      },
+      {
+        "nombre": "Maria Gabriela Epumer",
+        "instrumento": ["Coros"]
+      },
+      {
+        "nombre": "Mariela Chintalo",
+        "instrumento": ["Coros"]
+      },
+      {
+        "nombre": "Diego Blanco",
+        "instrumento": ["Bajo", "Sintetizador"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      }
+    
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Tu Vicio",
+        "autor": "Charly García",
+        "duracion": "4:06"
+      },
+      {
+        "id": 2,
+        "titulo": "I'm Not In Love",
+        "autor": "Eric Stewart, Graham Gouldman",
+        "duracion": "2:50"
+      },
+      {
+        "id": 3,
+        "titulo": "Influencia",
+        "autor": "Todd Rundgren",
+        "duracion": "5:30"
+      },
+      {
+        "id": 4,
+        "titulo": "Encuentro Con El Diablo",
+        "autor": "Charly García",
+        "duracion": "4:58"
+      },
+      {
+        "id": 5,
+        "titulo": "El Amor Espera",
+        "autor": "Charly García",
+        "duracion": "4:12"
+      },
+      {
+        "id": 6,
+        "titulo": "Película Sordomuda",
+        "autor": "Charly García",
+        "duracion": "2:01"
+      },
+      {
+        "id": 7,
+        "titulo": "Mi Nena",
+        "autor": "Charly García",
+        "duracion": "2:49"
+      },
+      {
+        "id": 8,
+        "titulo": "Tu Vicio (Gospel)",
+        "autor": "Charly García",
+        "duracion": "1:03"
+      },
+      {
+        "id": 9,
+        "titulo": "Demasiado Ego (One To One)",
+        "autor": "Charly García",
+        "duracion": "3:14"
+      },
+      {
+        "id": 10,
+        "titulo": "Influenza",
+        "autor": "Charly García",
+        "duracion": "3:33"
+      },
+      {
+        "id": 11,
+        "titulo": "I'm Not In Love (Acústico)",
+        "autor": "Eric Stewart, Graham Gouldman",
+        "duracion": "1:51"
+      },
+      {
+        "id": 12,
+        "titulo": "I'm Not In Love (Remix)",
+        "autor": "Eric Stewart, Graham Gouldman",
+        "duracion": "3:42"
+      },
+      {
+        "id": 13,
+        "titulo": "Happy And Real",
+        "autor": "Charly García",
+        "duracion": "3:25"
+      }
+    ]
+  }
+  

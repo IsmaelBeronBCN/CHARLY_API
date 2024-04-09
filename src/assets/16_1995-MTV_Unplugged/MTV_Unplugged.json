@@ -1,0 +1,117 @@
+{
+    "nombre": "Hello! MTV Unplugged",
+    "fecha_publicacion": 1995,
+    "duracion_total": "Aprox. 70 minutos",
+    "fecha":"https://www.discogs.com/release/7020140-Charly-Garc%C3%ADa-Unplugged-Hello/image/SW1hZ2U6MTg2NjcyNjk=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Piano", "Guitarra acústica"]
+      },
+      {
+        "nombre": "María Gabriela Epumer",
+        "instrumento": ["Guitarra acústica", "Coros"]
+      },
+      {
+        "nombre": "Carlos Alberto García López",
+        "instrumento": ["Guitarra acústica"]
+      },
+      {
+        "nombre": "Fernando Samalea",
+        "instrumento": ["Batería", "Bandoneón"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Percusión"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Bajo", "Teclados"]
+      },
+      {
+        "nombre": "Ulises Butrón",
+        "instrumento": ["Guitarra acústica", "Coros"]
+      }
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Fanky",
+        "autor": "Charly García",
+        "duracion": "4:45"
+      },
+      {
+        "id": 2,
+        "titulo": "No voy en tren",
+        "autor": "Charly García",
+        "duracion": "3:57"
+      },
+      {
+        "id": 3,
+        "titulo": "Cerca de la revolución",
+        "autor": "Charly García",
+        "duracion": "5:10"
+      },
+      {
+        "id": 4,
+        "titulo": "Promesas sobre el bidet",
+        "autor": "Charly García",
+        "duracion": "3:45"
+      },
+      {
+        "id": 5,
+        "titulo": "Cuchillos",
+        "autor": "Charly García",
+        "duracion": "3:55"
+      },
+      {
+        "id": 6,
+        "titulo": "Yendo de la cama al living",
+        "autor": "Charly García",
+        "duracion": "5:02"
+      },
+      {
+        "id": 7,
+        "titulo": "Los dinosaurios",
+        "autor": "Charly García",
+        "duracion": "4:38"
+      },
+      {
+        "id": 8,
+        "titulo": "Necesito tu amor",
+        "autor": "Charly García",
+        "duracion": "4:12"
+      },
+      {
+        "id": 9,
+        "titulo": "Demoliendo hoteles",
+        "autor": "Charly García",
+        "duracion": "3:39"
+      },
+      {
+        "id": 10,
+        "titulo": "Influencia",
+        "autor": "Charly García",
+        "duracion": "4:37"
+      },
+      {
+        "id": 11,
+        "titulo": "Rap del exilio",
+        "autor": "Charly García",
+        "duracion": "2:34"
+      },
+      {
+        "id": 12,
+        "titulo": "Chipi chipi",
+        "autor": "Charly García",
+        "duracion": "3:45"
+      },
+      {
+        "id": 13,
+        "titulo": "Pasajera en trance",
+        "autor": "Charly García",
+        "duracion": "5:20"
+      }
+    ]
+  }
+  

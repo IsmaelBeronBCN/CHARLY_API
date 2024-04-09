@@ -1,0 +1,120 @@
+{
+    "nombre": "Cómo conseguir chicas",
+    "fecha_publicacion": 1989,
+    "duracion_total": "43:03",
+    "foto":"https://laromarecords.co/tienda-en-linea/discos-vinilos-lp-s/rock-pop-en-espanol/charly-garcia-como-conseguir-chicas",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Carlos García López",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Fernando Lupano",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Héctor Starc",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Rinaldo Rafanelli",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fernando Samalea",
+        "instrumento": ["Batería", "Percusión"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Pablo Guyot",
+        "instrumento": ["Guitarra"]
+      }
+      
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "Fanky",
+        "autor": "Charly García",
+        "duracion": "4:35"
+      },
+      {
+        "id": 2,
+        "titulo": "No voy en tren",
+        "autor": "Charly García",
+        "duracion": "4:03"
+      },
+      {
+        "id": 3,
+        "titulo": "Necesito tu amor",
+        "autor": "Charly García",
+        "duracion": "3:55"
+      },
+      {
+        "id": 4,
+        "titulo": "No me verás en el subte",
+        "autor": "Charly García",
+        "duracion": "3:29"
+      },
+      {
+        "id": 5,
+        "titulo": "Fantasmas peleándole al viento",
+        "autor": "Charly García",
+        "duracion": "3:49"
+      },
+      {
+        "id": 6,
+        "titulo": "Suicida",
+        "autor": "Charly García",
+        "duracion": "2:25"
+      },
+      {
+        "id": 7,
+        "titulo": "Cuanto tiempo más llevará",
+        "autor": "Charly García",
+        "duracion": "3:47"
+      },
+      {
+        "id": 8,
+        "titulo": "Shisyastawuman",
+        "autor": "Charly García",
+        "duracion": "4:17"
+      },
+      {
+        "id": 9,
+        "titulo": "La ruta del tentempié",
+        "autor": "Charly García",
+        "duracion": "3:50"
+      },
+      {
+        "id": 10,
+        "titulo": "Anhedonia",
+        "autor": "Charly García",
+        "duracion": "3:25"
+      },
+      {
+        "id": 11,
+        "titulo": "Zocacola",
+        "autor": "Charly García",
+        "duracion": "3:28"
+      },
+      {
+        "id": 12,
+        "titulo": "Eiti Leda",
+        "autor": "Charly García",
+        "duracion": "5:00"
+      }
+    ]
+  }
+  

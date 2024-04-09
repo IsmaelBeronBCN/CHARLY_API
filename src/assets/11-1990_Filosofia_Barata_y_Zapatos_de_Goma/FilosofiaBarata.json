@@ -1,0 +1,130 @@
+{
+    "nombre": "Filosofía barata y zapatos de goma",
+    "fecha_publicacion": 1990,
+    "duracion_total": "50:10",
+    "foto": "https://www.discogs.com/release/7722364-Charly-Garcia-Filosofia-Barata-Y-Zapatos-De-Goma/image/SW1hZ2U6OTAxNjM5ODc=",
+    "musicos": [
+      {
+        "nombre": "Charly García",
+        "instrumento": ["Voz", "Teclados", "Guitarra"]
+      },
+      {
+        "nombre": "Carlos García López",
+        "instrumento": ["Guitarra eléctrica"]
+      },
+      {
+        "nombre": "Fernando Lupano",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fabián Von Quintiero",
+        "instrumento": ["Teclados"]
+      },
+      {
+        "nombre": "Héctor Starc",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Rinaldo Rafanelli",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Fernando Samalea",
+        "instrumento": ["Batería", "Percusión"]
+      },
+      {
+        "nombre": "Alfredo Toth",
+        "instrumento": ["Bajo"]
+      },
+      {
+        "nombre": "Pablo Guyot",
+        "instrumento": ["Guitarra"]
+      },
+      {
+        "nombre": "Mario Serra",
+        "instrumento": ["Batería"]
+      }
+    
+    ],
+    "canciones": [
+      {
+        "id": 1,
+        "titulo": "No me dejan salir",
+        "autor": "Charly García",
+        "duracion": "4:53"
+      },
+      {
+        "id": 2,
+        "titulo": "Me siento mucho mejor",
+        "autor": "Charly García",
+        "duracion": "2:47"
+      },
+      {
+        "id": 3,
+        "titulo": "Hablando a tu corazón",
+        "autor": "Charly García, Pedro Aznar",
+        "duracion": "4:39"
+      },
+      {
+        "id": 4,
+        "titulo": "No voy en tren",
+        "autor": "Charly García",
+        "duracion": "4:05"
+      },
+      {
+        "id": 5,
+        "titulo": "Los dinosaurios",
+        "autor": "Charly García",
+        "duracion": "4:14"
+      },
+      {
+        "id": 6,
+        "titulo": "Yo no quiero volverme tan loco",
+        "autor": "Charly García",
+        "duracion": "3:25"
+      },
+      {
+        "id": 7,
+        "titulo": "Canción para mi muerte",
+        "autor": "Charly García",
+        "duracion": "3:37"
+      },
+      {
+        "id": 8,
+        "titulo": "Promesas sobre el bidet",
+        "autor": "Charly García",
+        "duracion": "3:39"
+      },
+      {
+        "id": 9,
+        "titulo": "Raros peinados nuevos",
+        "autor": "Charly García",
+        "duracion": "3:38"
+      },
+      {
+        "id": 10,
+        "titulo": "Cerca de la revolución",
+        "autor": "Charly García",
+        "duracion": "4:52"
+      },
+      {
+        "id": 11,
+        "titulo": "Chipi Chipi",
+        "autor": "Charly García",
+        "duracion": "3:27"
+      },
+      {
+        "id": 12,
+        "titulo": "Demoliendo hoteles",
+        "autor": "Charly García",
+        "duracion": "3:43"
+      },
+      {
+        "id": 13,
+        "titulo": "Nos siguen pegando abajo",
+        "autor": "Charly García",
+        "duracion": "3:36"
+      }
+    ]
+  }
+  
